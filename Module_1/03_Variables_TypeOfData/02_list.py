@@ -30,3 +30,4 @@ for i, port in enumerate(my_ports):
 
 
 print(f"\n[+] There are {len(my_ports)} ports available.")
+print(f"[+] The highest port is {max(my_ports)} and the lowest port is {min(my_ports)}.")
